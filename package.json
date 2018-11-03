@@ -12,5 +12,9 @@
   "dependencies": {
     "angular": "^1.7.5",
     "http-server": "^0.11.1"
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "gh-pages": "^2.0.0"
   }
 }
