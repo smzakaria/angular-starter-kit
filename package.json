@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "angular": "^1.7.5",
+    "angular-1.6-cli": "^1.6.3",
+    "angular-cli-ghpages": "^0.5.3",
     "http-server": "^0.11.1"
   },
   "devDependencies": {
